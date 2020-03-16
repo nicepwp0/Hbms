@@ -7,10 +7,10 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>huanyinglaidao</title>
-  </head>
-  <body>
-  <h1>meteor</h1>
-  </body>
+</head>
+<body>
+<h1>meteor</h1>
+</body>
 </html>

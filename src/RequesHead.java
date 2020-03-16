@@ -1,5 +1,5 @@
 public class RequesHead {
-    
+
     private String name;
 
     private String age;
@@ -26,7 +26,7 @@ public class RequesHead {
     }
 
     public static void main(String[] args) {
-      // haha
+        // haha
     }
 
     @Override

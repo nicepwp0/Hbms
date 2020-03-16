@@ -10,14 +10,14 @@ public class MainTest {
 
         List list = new ArrayList();
         new ConcurrentHashMap<String, Object>();
-     new MainTest().getParams(4);
+        new MainTest().getParams(4);
 
 
     }
 
     public void getParams(int i) {
 
-     String s = new String("haha");
+        String s = new String("haha");
         System.out.println("meteor");
         String str = new String();
 
@@ -27,9 +27,6 @@ public class MainTest {
 
 
     }
-
-
-
 
 
 }
